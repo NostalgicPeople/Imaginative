@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_bottom_navigation_select_fragment"
+    app:startDestination="@id/main_navigation_home">
+
+
+    <fragment
+        android:id="@+id/main_navigation_home"
+        android:name="com.android.imaginative.home.HomeFragment"
+        android:label="@string/main_bottom_navigation_menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/main_navigation_bookkeeping"
+        android:name="com.android.imaginative.bookkeeping.BookKeepFragment"
+        android:label="@string/main_bottom_navigation_menu_bookkeeping"
+        tools:layout="@layout/fragment_bookkeeping" />
+
+    <fragment
+        android:id="@+id/main_navigation_mine"
+        android:name="com.android.imaginative.mine.MineFragment"
+        android:label="@string/main_bottom_navigation_menu_mine"
+        tools:layout="@layout/fragment_mine" />
+
+
+</navigation>

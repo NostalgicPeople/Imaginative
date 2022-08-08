@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/main_navigation_home"
+        android:icon="@drawable/mine_enable_false"
+        android:title="@string/main_bottom_navigation_menu_home" />
+
+    <item
+        android:id="@+id/main_navigation_bookkeeping"
+        android:icon="@drawable/mine_enable_false"
+        android:title="@string/main_bottom_navigation_menu_bookkeeping" />
+
+
+    <item
+        android:id="@+id/main_navigation_mine"
+        android:icon="@drawable/mine_enable_false"
+        android:title="@string/main_bottom_navigation_menu_mine" />
+
+</menu>

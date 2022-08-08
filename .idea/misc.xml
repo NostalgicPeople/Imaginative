@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/code/Imaginative/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2145" />
+        <entry key="..\:/code/Imaginative/app/src/main/res/drawable/main_bottom_navigation_select_colors.xml" value="0.1775" />
+        <entry key="..\:/code/Imaginative/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/code/Imaginative/app/src/main/res/layout/activity_main2.xml" value="0.13632246376811594" />
+        <entry key="..\:/code/Imaginative/app/src/main/res/layout/fragment_bookkeeping.xml" value="0.29393115942028986" />
+        <entry key="..\:/code/Imaginative/app/src/main/res/layout/fragment_dashboard.xml" value="0.20729166666666668" />
+        <entry key="..\:/code/Imaginative/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/code/Imaginative/app/src/main/res/layout/fragment_login.xml" value="0.19270833333333334" />
+        <entry key="..\:/code/Imaginative/app/src/main/res/layout/fragment_mine.xml" value="0.20729166666666668" />
+        <entry key="..\:/code/Imaginative/app/src/main/res/layout/fragment_notifications.xml" value="0.3029891304347826" />
+        <entry key="..\:/code/Imaginative/app/src/main/res/menu/bottom_nav_menu.xml" value="0.3682051282051282" />
+        <entry key="..\:/code/Imaginative/app/src/main/res/menu/main_bottom_navigation.xml" value="0.3885416666666667" />
+        <entry key="..\:/code/Imaginative/app/src/main/res/menu/main_bottom_select_color.xml" value="0.20729166666666668" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>

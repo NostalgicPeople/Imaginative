@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Imaginative</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="main_bottom_navigation_menu_mine">我的</string>
+    <string name="main_bottom_navigation_menu_home">主页</string>
+    <string name="main_bottom_navigation_menu_bookkeeping">记账</string>
 </resources>
